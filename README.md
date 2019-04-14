@@ -1,1 +1,1 @@
-# NodeJS-RESTful-API-Sample
+# NodeJS-REST-API-Sample
